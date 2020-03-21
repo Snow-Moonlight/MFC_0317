@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  MFC_0317_3View.cpp
+c:\users\hhx\documents\vc++\projects\mfc_0317\mfc_0317_3\mfc_0317_3\mfc_0317_3view.cpp(100): warning C4244: “初始化”: 从“UINT_PTR”转换到“int”，可能丢失数据
+  MFC_0317_3Doc.cpp
+  MFC_0317_3.cpp
+  MainFrm.cpp
+  正在生成代码...
+  MFC_0317_3.vcxproj -> C:\Users\HHX\Documents\vc++\Projects\MFC_0317\MFC_0317_3\x64\Debug\MFC_0317_3.exe
+  MFC_0317_3.vcxproj -> C:\Users\HHX\Documents\vc++\Projects\MFC_0317\MFC_0317_3\x64\Debug\MFC_0317_3.pdb (Full PDB)
